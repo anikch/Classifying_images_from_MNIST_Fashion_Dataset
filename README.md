@@ -1,6 +1,6 @@
 # Classifying_images_from_MNIST_Fashion_Dataset
 
-*Problem Statement*
+**Problem Statement**
 The dataset is similar to MNIST but includes images of certain  clothing  and  accessory.  The  objective  is  to classify images into specific classes using a single-layer perceptron & multilayer perceptron. Dataset DescriptionMNIST Fashion Dataset
 - Total Images: 70,000
 - Train Images: 60,000
@@ -8,7 +8,7 @@ The dataset is similar to MNIST but includes images of certain  clothing  and  a
 - Image Size:28 x 28
 - Classes:‘T-Shirt/top’, ‘Trouser’, ‘Pullover’, ‘Dress’, ‘Coat’, ‘Sandal’, ‘Shirt’, ‘Sneaker’, ‘Bag’, ‘Ankle Boot’
 
-*Approach*
+**Approach**
 - Prepared the dataset for the model
 - Developed a Single Layer Perceptron model for classifying the handwritten digits and plotted the change in accuracyper epochs.
 - Evaluated the model on the testing data and analyze the model summary
