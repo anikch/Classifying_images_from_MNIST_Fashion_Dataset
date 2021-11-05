@@ -1,6 +1,7 @@
 # Classifying_images_from_MNIST_Fashion_Dataset
 
 **Problem Statement**
+
 The dataset is similar to MNIST but includes images of certain  clothing  and  accessory.  The  objective  is  to classify images into specific classes using a single-layer perceptron & multilayer perceptron. Dataset DescriptionMNIST Fashion Dataset
 - Total Images: 70,000
 - Train Images: 60,000
